@@ -16,11 +16,3 @@ Welcome to py3status's documentation!
    writing_modules
    py3
    contributing
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

@@ -1,6 +1,8 @@
 Introduction
 ============
 
+.. image:: screenshots/main.png
+
 Using py3status, you can take control of your i3bar easily by:
 
 * using one of the available :ref:`modules` shipped with py3status
